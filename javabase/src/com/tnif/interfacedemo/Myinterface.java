@@ -1,5 +1,5 @@
 package com.tnif.interfacedemo;
 
-public class Bank {
+public class Myinterface {
 
 }
