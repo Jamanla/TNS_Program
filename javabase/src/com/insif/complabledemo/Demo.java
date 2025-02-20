@@ -13,7 +13,7 @@ public class Demo {
 
 		Collections.sort(laps);
 		for(Laptop l:laps);{
-	 System.out.println(l);
+	 System.out.println();
 		}
 	
 	}

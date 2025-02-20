@@ -1,5 +1,5 @@
 package com.insif.complabledemo;
-//import java.util.stack;
+import java.util.Stack;
 
 public class Stackclass {
 	public static void main(String[] args) {
@@ -10,7 +10,7 @@ public class Stackclass {
 		ob.push(340);
 		System.out.println("Stack Element"+ob);
 		//peek
-		System.out.println(ob.peek);
+		System.out.println(ob.peek());
 		if(ob.isEmpty()) {
 			System.out.println("Stack is empty");
 		}
